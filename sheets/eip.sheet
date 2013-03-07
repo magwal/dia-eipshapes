@@ -6,6 +6,9 @@
     <object name="Aggregator">
       <description>Aggregator</description>
     </object>
+     <object name="CanonicalRepresentation">
+      <description>CanonicalRepresentation</description>
+    </object>
     <object name="ClaimCheck">
       <description>ClaimCheck</description>
     </object>
