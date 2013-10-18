@@ -90,6 +90,9 @@
     <object name="PointToPoint">
       <description>PointToPoint</description>
     </object>
+     <object name="PointToPointBack">
+      <description>PointToPointBack</description>
+    </object>
     <object name="PollingConsumer">
       <description>PollingConsumer</description>
     </object>
