@@ -6,3 +6,23 @@
 1 - Installation instructions
 Put the files in your Dia root folder.
 Enjoy!
+
+
+
+Magnus added
+
+1b - Installation instructions detailed
+
+* copy <path_to_dia-eipshapes>/shapes/Integration dir to <path_to_dia>/shapes
+
+* copy <path_to_dia-eipshapes>/sheets/eip.sheet to <path_to_dia>/sheets
+
+
+An example:
+
+If ubuntu and dia installed with apt-get you'll probably find dia in /usr/share/dia
+Let's say eip-shapes is located in ~/dia-eipshapes
+
+* $ sudo cp -r  ~/dia-eipshapes/shapes/Integration /usr/share/dia/shapes 
+* $ sudo cp   ~/dia-eipshapes/sheets/eip.sheet /usr/share/dia/sheets
+
